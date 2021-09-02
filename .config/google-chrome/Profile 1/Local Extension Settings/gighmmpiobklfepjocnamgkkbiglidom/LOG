@@ -1,0 +1,48 @@
+2021/09/02-16:59:52.282 2e10 Reusing MANIFEST /home/zileto/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/09/02-16:59:52.282 2e10 Recovering log #8
+2021/09/02-16:59:52.283 2e10 Reusing old log /home/zileto/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000008.log 
+2021/09/02-17:00:54.211 2e2d Level-0 table #12: started
+2021/09/02-17:00:54.279 2e2d Level-0 table #12: 6558433 bytes OK
+2021/09/02-17:00:54.283 2e2d Delete type=0 #8
+2021/09/02-17:04:03.866 2e10 Level-0 table #14: started
+2021/09/02-17:04:03.922 2e10 Level-0 table #14: 6547766 bytes OK
+2021/09/02-17:04:03.924 2e10 Delete type=0 #11
+2021/09/02-18:00:54.781 3cbc Level-0 table #16: started
+2021/09/02-18:00:54.837 3cbc Level-0 table #16: 6548340 bytes OK
+2021/09/02-18:00:54.839 3cbc Delete type=0 #13
+2021/09/02-18:00:54.841 3cbc Compacting 4@0 + 1@1 files
+2021/09/02-18:00:54.930 3cbc Generated table #17@0: 1 keys, 6547546 bytes
+2021/09/02-18:00:54.933 3cbc Generated table #18@0: 5 keys, 374 bytes
+2021/09/02-18:00:54.933 3cbc Compacted 4@0 + 1@1 files => 6547920 bytes
+2021/09/02-18:00:54.934 3cbc compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/02-18:00:54.934 3cbc Delete type=2 #12
+2021/09/02-18:00:54.934 3cbc Delete type=2 #9
+2021/09/02-18:00:54.934 3cbc Delete type=2 #14
+2021/09/02-18:00:54.934 3cbc Delete type=2 #16
+2021/09/02-18:00:54.934 3cbc Delete type=2 #7
+2021/09/02-18:12:11.560 3d0c Level-0 table #20: started
+2021/09/02-18:12:11.616 3d0c Level-0 table #20: 6547546 bytes OK
+2021/09/02-18:12:11.620 3d0c Delete type=0 #15
+2021/09/02-19:00:54.165 49fb Level-0 table #22: started
+2021/09/02-19:00:54.222 49fb Level-0 table #22: 6547543 bytes OK
+2021/09/02-19:00:54.224 49fb Delete type=0 #19
+2021/09/02-19:01:24.800 49fb Level-0 table #24: started
+2021/09/02-19:01:24.857 49fb Level-0 table #24: 6547731 bytes OK
+2021/09/02-19:01:24.859 49fb Delete type=0 #21
+2021/09/02-20:00:54.309 53cd Level-0 table #26: started
+2021/09/02-20:00:54.381 53cd Level-0 table #26: 6547540 bytes OK
+2021/09/02-20:00:54.385 53cd Delete type=0 #23
+2021/09/02-20:00:54.388 53cd Compacting 4@0 + 2@1 files
+2021/09/02-20:00:54.557 53cd Generated table #27@0: 1 keys, 6547540 bytes
+2021/09/02-20:00:54.560 53cd Generated table #28@0: 5 keys, 374 bytes
+2021/09/02-20:00:54.560 53cd Compacted 4@0 + 2@1 files => 6547914 bytes
+2021/09/02-20:00:54.561 53cd compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/02-20:00:54.561 53cd Delete type=2 #24
+2021/09/02-20:00:54.561 53cd Delete type=2 #18
+2021/09/02-20:00:54.561 53cd Delete type=2 #20
+2021/09/02-20:00:54.561 53cd Delete type=2 #17
+2021/09/02-20:00:54.561 53cd Delete type=2 #26
+2021/09/02-20:00:54.561 53cd Delete type=2 #22
+2021/09/02-20:16:11.560 5aa6 Level-0 table #30: started
+2021/09/02-20:16:11.623 5aa6 Level-0 table #30: 6547734 bytes OK
+2021/09/02-20:16:11.625 5aa6 Delete type=0 #25

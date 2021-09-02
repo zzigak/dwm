@@ -1,0 +1,7 @@
+2021/09/02-17:42:53.807 3c1e Reusing MANIFEST /home/zileto/.config/google-chrome/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-17:42:53.807 3c1e Recovering log #3
+2021/09/02-17:42:53.808 3c1e Reusing old log /home/zileto/.config/google-chrome/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2021/09/02-17:43:25.821 3990 Level-0 table #5: started
+2021/09/02-17:43:25.823 3990 Level-0 table #5: 835 bytes OK
+2021/09/02-17:43:25.825 3990 Delete type=0 #3
+2021/09/02-17:43:25.825 3990 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

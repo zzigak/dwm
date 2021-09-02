@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="ie=edge" http-equiv="x-ua-compatible">
+<title>Workona</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<style>
+  .body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Avenir Next', Avenir, Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color: #272F3B;
+  }
+  #iframe {
+    width: 350px;
+    height: 172px;
+  }
+  .container {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    min-height: 248px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+  }
+  #heading {
+    padding: 0 40px 20px;
+    font-size: 22px;
+    text-align: center;
+  }
+  #subheading {
+    padding: 0 48px 32px;
+    font-size: 15px;
+    text-align: center;
+  }
+  #openPromptButton {
+    display: block;
+    padding: 8px 32px;
+    border: none;
+    line-height: 20px;
+    border-radius: 18px;
+    background-color: #326FFF;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    outline: none;
+  }
+  .hint {
+    margin-top: 4px;
+    opacity: 0.5;
+  }
+</style>
+</head>
+<body class="body">
+  <iframe id="iframe" frameborder="0"></iframe>
+  <div id="openPrompt" class="container">
+    <div id="heading"></div>
+    <div id="subheading"></div>
+    <button id="openPromptButton" autofocus></button>
+    <div class="hint">
+      Press return to continue
+    </div>
+  </div>
+  <div id="loading" class="container">
+    <svg
+      width="128px"
+      height="128px"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 100 100"
+      preserveAspectRatio="xMidYMid"
+    >
+      <circle
+        cx="50"
+        cy="50"
+        r="40"
+        stroke="rgba(0,0,0,0.3)"
+        fill="none"
+        strokeWidth="2"
+        strokeLinecap="round"
+      >
+        <animate
+          attributeName="stroke-dashoffset"
+          dur="2s"
+          repeatCount="indefinite"
+          from="0"
+          to="-500"
+        />
+        <animate
+          attributeName="stroke-dasharray"
+          dur="2s"
+          repeatCount="indefinite"
+          values="150 100;1 250;150 100"
+        />
+      </circle>
+    </svg>
+  </div>
+  <script src="./popupScript.js" type="text/javascript"></script>
+</body>
+</html>

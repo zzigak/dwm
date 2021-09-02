@@ -1,0 +1,6 @@
+2021/09/02-11:20:22.317 13f7 Creating DB /home/zileto/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2021/09/02-11:20:22.320 13f7 Reusing MANIFEST /home/zileto/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-11:20:54.378 13f7 Level-0 table #5: started
+2021/09/02-11:20:54.381 13f7 Level-0 table #5: 835 bytes OK
+2021/09/02-11:20:54.383 13f7 Delete type=0 #3
+2021/09/02-11:20:54.383 13f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

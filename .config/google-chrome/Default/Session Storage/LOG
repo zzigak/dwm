@@ -1,0 +1,36 @@
+2021/09/02-08:01:13.543 5 Reusing MANIFEST /home/zileto/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/09/02-08:01:13.545 5 Recovering log #59
+2021/09/02-08:01:13.548 5 Reusing old log /home/zileto/.config/google-chrome/Default/Session Storage/000059.log 
+2021/09/02-08:11:11.328 5 Level-0 table #63: started
+2021/09/02-08:11:11.335 5 Level-0 table #63: 21666 bytes OK
+2021/09/02-08:11:11.341 5 Delete type=0 #59
+2021/09/02-08:11:11.342 5 Compacting 4@0 + 1@1 files
+2021/09/02-08:11:11.369 5 Generated table #64@0: 3045 keys, 66812 bytes
+2021/09/02-08:11:11.369 5 Compacted 4@0 + 1@1 files => 66812 bytes
+2021/09/02-08:11:11.370 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/02-08:11:11.373 5 Delete type=2 #57
+2021/09/02-08:11:11.373 5 Delete type=2 #60
+2021/09/02-08:11:11.373 5 Delete type=2 #52
+2021/09/02-08:11:11.373 5 Delete type=2 #55
+2021/09/02-08:11:11.373 5 Delete type=2 #63
+2021/09/02-18:01:58.641 4a Level-0 table #66: started
+2021/09/02-18:01:58.645 4a Level-0 table #66: 21330 bytes OK
+2021/09/02-18:01:58.649 4a Delete type=0 #62
+2021/09/02-18:07:35.649 4c Level-0 table #68: started
+2021/09/02-18:07:35.652 4c Level-0 table #68: 31662 bytes OK
+2021/09/02-18:07:35.654 4c Delete type=0 #65
+2021/09/02-19:25:19.975 6c Level-0 table #70: started
+2021/09/02-19:25:19.978 6c Level-0 table #70: 25769 bytes OK
+2021/09/02-19:25:19.980 6c Delete type=0 #67
+2021/09/02-20:08:31.677 62 Level-0 table #72: started
+2021/09/02-20:08:31.681 62 Level-0 table #72: 18078 bytes OK
+2021/09/02-20:08:31.683 62 Delete type=0 #69
+2021/09/02-20:08:31.683 62 Compacting 4@0 + 1@1 files
+2021/09/02-20:08:31.686 62 Generated table #73@0: 3701 keys, 78146 bytes
+2021/09/02-20:08:31.687 62 Compacted 4@0 + 1@1 files => 78146 bytes
+2021/09/02-20:08:31.688 62 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/02-20:08:31.688 62 Delete type=2 #64
+2021/09/02-20:08:31.688 62 Delete type=2 #72
+2021/09/02-20:08:31.688 62 Delete type=2 #66
+2021/09/02-20:08:31.688 62 Delete type=2 #70
+2021/09/02-20:08:31.688 62 Delete type=2 #68

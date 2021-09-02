@@ -1,0 +1,70 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "runtime.js", "2.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "32": "images/bookmark_btn.png"
+      },
+      "default_title": "Workona Tab Manager"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "description": "Save current tab to workspace (d)",
+         "suggested_key": {
+            "default": "Alt+D"
+         }
+      },
+      "close": {
+         "description": "Close workspace (w)"
+      },
+      "manager": {
+         "description": "Open Workona (a)",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      },
+      "new": {
+         "description": "New workspace (n)"
+      },
+      "search": {
+         "description": "Find or create (f)",
+         "suggested_key": {
+            "default": "Alt+F"
+         }
+      },
+      "switch": {
+         "description": "Switch workspace (s)",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+      "matches": [ "https://workona.com/*", "https://*.workona.com/*" ]
+   },
+   "homepage_url": "https://workona.com/0/",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "256": "images/icon_256.png",
+      "32": "images/icon_32.png",
+      "48": "images/icon_96.png",
+      "96": "images/icon_96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlTDCGRkVU6zgrNCQQMXwgoVB0A+rGZh9E1yokH4T+cqz6zxMG/f/gZiWHvYDb9thNTtGKyl7LiE0Op3VTqeRlSV8pN5+5ojkSawiNHEXS+8ImzAoSsWTFkiloZnk6HIP2eCKvx2be+mE74Yq/6kPnTxApUitZ6gXVM1udnw59mFhXw8R9DUtMDTfQwA1Us8UnfBIEyqIfcqVqdymYjZfD9e16n7kVzq4p0yHnXgyrIUhRsI2APfsgVD673R7sDtbJDeU5lvuZBvBjczKw16YL2RqdlzmVZXaIZClsWWMEoyH9Q2mLZf9tM5aaSoiguMQ3VVlDRMzlzm5xtjFmLfINwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "54",
+   "name": "__MSG_appName__",
+   "omnibox": {
+      "keyword": ";"
+   },
+   "optional_permissions": [ "system.memory" ],
+   "permissions": [ "contextMenus", "history", "tabs", "unlimitedStorage", "chrome://favicon/" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.21.7"
+}

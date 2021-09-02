@@ -1,0 +1,18 @@
+2021/09/01-22:02:58.586 3 Reusing MANIFEST /home/zileto/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/01-22:02:58.587 3 Recovering log #201
+2021/09/01-22:02:58.588 3 Reusing old log /home/zileto/.config/google-chrome/Default/Local Storage/leveldb/000201.log 
+2021/09/01-22:20:04.804 c Level-0 table #205: started
+2021/09/01-22:20:04.810 c Level-0 table #205: 17691 bytes OK
+2021/09/01-22:20:04.816 c Delete type=0 #201
+2021/09/01-22:27:52.444 10 Level-0 table #207: started
+2021/09/01-22:27:52.449 10 Level-0 table #207: 22545 bytes OK
+2021/09/01-22:27:52.453 10 Delete type=0 #204
+2021/09/01-22:27:52.454 10 Compacting 4@0 + 1@1 files
+2021/09/01-22:27:52.486 10 Generated table #208@0: 1539 keys, 1323907 bytes
+2021/09/01-22:27:52.486 10 Compacted 4@0 + 1@1 files => 1323907 bytes
+2021/09/01-22:27:52.488 10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/01-22:27:52.490 10 Delete type=2 #207
+2021/09/01-22:27:52.490 10 Delete type=2 #205
+2021/09/01-22:27:52.490 10 Delete type=2 #198
+2021/09/01-22:27:52.490 10 Delete type=2 #202
+2021/09/01-22:27:52.490 10 Delete type=2 #200

@@ -1,0 +1,117 @@
+set notification-error-bg       "#2a2f33" # bg
+set notification-error-fg       "#ec7279" # bright:red
+set notification-warning-bg     "#2a2f33" # bg
+set notification-warning-fg     "#deb974" # bright:yellow
+set notification-bg             "#2a2f33" # bg
+set notification-fg             "#a0c980" # bright:green
+
+set completion-bg               "#31363b" # bg2
+set completion-fg               "#bfddb2" # fg
+set completion-group-bg         "#3c3836" # bg1
+set completion-group-fg         "#88909f" # gray
+set completion-highlight-bg     "#6cb6eb" # bright:blue
+set completion-highlight-fg     "#31363b" # bg2
+
+# Define the color in index mode
+set index-bg                    "#31363b" # bg2
+set index-fg                    "#bfddb2" # fg
+set index-active-bg             "#6cb6eb" # bright:blue
+set index-active-fg             "#31363b" # bg2
+
+set inputbar-bg                 "#13141a" # bg
+set inputbar-fg                 "#f8f8f2" # fg
+
+set statusbar-bg                "#13141a" # bg2
+set statusbar-fg                "#4D7378" # fg
+
+set highlight-active-color             "#50fa7b" # bright:yellow
+set highlight-color    "#f1fa8c" # bright:orange
+
+set default-bg                  rgba(0,0,0,0.5) # bg
+set default-fg                  "#f8f8f2" # fg
+set render-loading              true
+set render-loading-bg           "#3f3740" # bg
+set render-loading-fg           "#cfe7fc" # fg
+
+# Recolor book content's color
+set recolor-lightcolor          "#282a36" # bg
+set recolor-darkcolor           "#f8f8f2" # fg
+set recolor                     "true"
+# set recolor-keephue             true      # keep original color
+
+# Startup options
+#
+#
+set adjust-open width
+set recolor true
+
+#Shortcuts 
+
+map <C-=> zoom in
+map <C--> zoom out
+map B jumplist backward
+map b jumplist forward
+
+
+
+# Shortcut functions
+
+# The following shortcut functions can be mapped:
+# Function      Description
+# abort         Switch back to normal mode
+# adjust_window         Adjust page width
+# change_mode   Change current mode
+# follow        Follow a link
+# focus_inputbar        Focus inputbar
+# goto  Go to a certain page
+# index_navigate        Navigate through the index
+# navigate      Navigate to the next/previous page
+# quit  Quit zathura
+# recolor       Recolor the pages
+# reload        Reload the document
+# rotate        Rotate the page
+# scroll        Scroll
+# search        Search next/previous item
+# set   Set an option
+# toggle_fullscreen     Toggle fullscreen
+# toggle_index  Show or hide index
+# toggle_inputbar       Show or hide inputbar
+# toggle_statusbar      Show or hide statusbar
+# zoom  Zoom in or out
+# Pass arguments
+#map <C-n> navigate next
+#map <C-p> navigate previous
+#map <C-f> navigate forward
+#map <C-b> navigate backward
+#map <C-s> search forward
+#map <C-r> search backward
+#map <C-y> reload
+#map <C-g> goto
+# Some shortcut function require or have optional arguments which influence the behaviour of them. Those can be passed as the last argument:
+
+# map <C-i> zoom in
+# map <C-o> zoom out
+
+# Possible arguments are:
+
+#     bottom
+#     default
+#     down
+#     full-down
+#     full-up
+#     half-down
+#     half-up
+#     in
+#     left
+#     next
+#     out
+#     previous
+#     right
+#     specific
+#     top
+#     up
+#     best-fit
+#     width
+#     rotate-cw
+#     rotate-ccw
+

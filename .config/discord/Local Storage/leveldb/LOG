@@ -1,0 +1,6 @@
+2021/09/02-17:16:29.174 3118 Reusing MANIFEST /home/zileto/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/09/02-17:16:29.175 3118 Recovering log #3
+2021/09/02-17:16:29.176 3118 Reusing old log /home/zileto/.config/discord/Local Storage/leveldb/000003.log 
+2021/09/02-17:25:51.904 34ce Level-0 table #5: started
+2021/09/02-17:25:51.909 34ce Level-0 table #5: 21793 bytes OK
+2021/09/02-17:25:51.911 34ce Delete type=0 #3

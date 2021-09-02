@@ -1,0 +1,14 @@
+{
+   "appDescription": {
+      "description": "Description of the extension",
+      "message": "Organize your work in the browser."
+   },
+   "appName": {
+      "description": "Name of the extension",
+      "message": "Workona Tab Manager"
+   },
+   "appShortName": {
+      "description": "Short name of the extension",
+      "message": "Workona"
+   }
+}

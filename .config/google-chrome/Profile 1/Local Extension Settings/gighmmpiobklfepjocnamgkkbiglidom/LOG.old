@@ -1,0 +1,11 @@
+2021/08/31-13:12:22.907 274d Creating DB /home/zileto/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom since it was missing.
+2021/08/31-13:12:22.914 274d Reusing MANIFEST /home/zileto/.config/google-chrome/Profile 1/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/08/31-13:12:24.803 2744 Level-0 table #5: started
+2021/08/31-13:12:24.934 2744 Level-0 table #5: 8063838 bytes OK
+2021/08/31-13:12:24.936 2744 Delete type=0 #3
+2021/08/31-13:13:24.167 274d Level-0 table #7: started
+2021/08/31-13:13:24.220 274d Level-0 table #7: 6558346 bytes OK
+2021/08/31-13:13:24.222 274d Delete type=0 #4
+2021/08/31-13:13:25.752 22ac Level-0 table #9: started
+2021/08/31-13:13:25.804 22ac Level-0 table #9: 6557988 bytes OK
+2021/08/31-13:13:25.806 22ac Delete type=0 #6

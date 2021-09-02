@@ -1,0 +1,7 @@
+2021/08/31-18:16:53.456 249b Reusing MANIFEST /home/zileto/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/31-18:16:53.456 249b Recovering log #3
+2021/08/31-18:16:53.456 249b Reusing old log /home/zileto/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2021/08/31-18:22:21.643 2794 Level-0 table #5: started
+2021/08/31-18:22:21.645 2794 Level-0 table #5: 24813 bytes OK
+2021/08/31-18:22:21.646 2794 Delete type=0 #3
+2021/08/31-18:22:21.647 2794 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

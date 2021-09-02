@@ -1,0 +1,14 @@
+2021/09/02-20:17:35.845 5d22 Reusing MANIFEST /home/zileto/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-20:17:35.845 5d22 Recovering log #29
+2021/09/02-20:17:35.845 5d22 Reusing old log /home/zileto/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000029.log 
+2021/09/02-20:17:35.845 5d22 Delete type=2 #27
+2021/09/02-20:17:36.250 5d23 Level-0 table #34: started
+2021/09/02-20:17:36.252 5d23 Level-0 table #34: 2218 bytes OK
+2021/09/02-20:17:36.253 5d23 Delete type=0 #29
+2021/09/02-20:17:36.253 5d23 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 489 : 1
+2021/09/02-20:17:36.253 5d23 Compacting 1@0 + 1@1 files
+2021/09/02-20:17:36.254 5d23 Generated table #35@0: 29 keys, 1480 bytes
+2021/09/02-20:17:36.254 5d23 Compacted 1@0 + 1@1 files => 1480 bytes
+2021/09/02-20:17:36.256 5d23 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/02-20:17:36.256 5d23 Delete type=2 #34
+2021/09/02-20:17:36.256 5d23 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 489 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

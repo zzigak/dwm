@@ -1,0 +1,6 @@
+2021/09/01-22:02:58.584 a1f Reusing MANIFEST /home/zileto/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/09/01-22:02:58.584 a1f Recovering log #96
+2021/09/01-22:02:58.584 a1f Reusing old log /home/zileto/.config/google-chrome/Default/Sync Data/LevelDB/000096.log 
+2021/09/01-22:17:04.184 e46 Level-0 table #100: started
+2021/09/01-22:17:04.187 e46 Level-0 table #100: 96780 bytes OK
+2021/09/01-22:17:04.189 e46 Delete type=0 #96

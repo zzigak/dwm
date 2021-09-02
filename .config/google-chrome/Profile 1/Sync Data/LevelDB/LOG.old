@@ -1,0 +1,8 @@
+2021/08/31-13:08:54.846 22ae Creating DB /home/zileto/.config/google-chrome/Profile 1/Sync Data/LevelDB since it was missing.
+2021/08/31-13:08:54.856 22ae Reusing MANIFEST /home/zileto/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/08/31-13:12:22.006 22ad Level-0 table #5: started
+2021/08/31-13:12:22.016 22ad Level-0 table #5: 1007021 bytes OK
+2021/08/31-13:12:22.018 22ad Delete type=0 #3
+2021/08/31-13:12:22.174 2745 Level-0 table #7: started
+2021/08/31-13:12:22.182 2745 Level-0 table #7: 200544 bytes OK
+2021/08/31-13:12:22.185 2745 Delete type=0 #4

@@ -1,0 +1,22 @@
+2021/09/01-22:02:58.824 a1a Reusing MANIFEST /home/zileto/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2021/09/01-22:02:58.824 a1a Recovering log #200
+2021/09/01-22:02:58.861 a1a Level-0 table #203: started
+2021/09/01-22:02:58.946 a1a Level-0 table #203: 6547416 bytes OK
+2021/09/01-22:02:58.951 a1a Delete type=0 #200
+2021/09/01-22:02:58.953 a1f Compacting 4@0 + 2@1 files
+2021/09/01-22:02:59.117 a1f Generated table #205@0: 1 keys, 6547171 bytes
+2021/09/01-22:02:59.122 a1f Generated table #206@0: 5 keys, 510 bytes
+2021/09/01-22:02:59.122 a1f Compacted 4@0 + 2@1 files => 6547681 bytes
+2021/09/01-22:02:59.124 a1f compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/01-22:04:00.370 a42 Level-0 table #208: started
+2021/09/01-22:04:00.427 a42 Level-0 table #208: 6547294 bytes OK
+2021/09/01-22:04:00.428 a42 Delete type=2 #193
+2021/09/01-22:04:00.428 a42 Delete type=2 #194
+2021/09/01-22:04:00.428 a42 Delete type=0 #204
+2021/09/01-22:04:00.428 a42 Delete type=2 #198
+2021/09/01-22:04:00.428 a42 Delete type=2 #196
+2021/09/01-22:04:00.428 a42 Delete type=2 #203
+2021/09/01-22:04:00.428 a42 Delete type=2 #201
+2021/09/01-22:04:56.207 a35 Level-0 table #210: started
+2021/09/01-22:04:56.281 a35 Level-0 table #210: 6547409 bytes OK
+2021/09/01-22:04:56.284 a35 Delete type=0 #207

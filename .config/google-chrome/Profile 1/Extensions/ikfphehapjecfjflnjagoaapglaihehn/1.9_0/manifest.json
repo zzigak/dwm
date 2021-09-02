@@ -1,0 +1,22 @@
+{
+   "browser_action": {
+      "default_title": "Reddit Ad Blocker"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.js", "content.js" ],
+      "matches": [ "*://*.reddit.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Blocks All Reddit Promoted and Side Bar Ads",
+   "homepage_url": "http://extralargebacon.pizza",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Lhiba10OuZWHHiE6c+zTgJ+xg14yta9IlkgkOiCodtUtKFLmAO9PTxDDIB7z52ITEaGrgfKswDDwj9lkusZ6v7IM8IftKIJzqgPSHwuDwZZLSwN7Wj+q/waHKyQNBTvZSdX1AQXltMbN1sdtRKJH939bI0qCTpr7pJAhZoWiDSc1cWUXrEuPtP1hsx1OFdfH21PVh/MboiX80DJ+TAZEG313rThbIoFfg79vl9F9iq7c+Wb7ZP/M7upT4r76MXnMtjY88qGgG5m+rXh0Sm3kc7zhAEOBDjUqsjbdcKPZDN+AKqp9E0L46GE5D/cSBfmiEPgoHAnUOSqkKfeoI0e6QIDAQAB",
+   "manifest_version": 2,
+   "name": "Reddit Ad Blocker",
+   "permissions": [ "*://*.reddit.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9"
+}

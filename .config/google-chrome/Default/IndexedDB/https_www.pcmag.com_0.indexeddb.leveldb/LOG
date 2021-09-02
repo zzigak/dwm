@@ -1,0 +1,18 @@
+2021/09/02-16:25:27.992 1dc6 Creating DB /home/zileto/.config/google-chrome/Default/IndexedDB/https_www.pcmag.com_0.indexeddb.leveldb since it was missing.
+2021/09/02-16:25:27.996 1dc6 Reusing MANIFEST /home/zileto/.config/google-chrome/Default/IndexedDB/https_www.pcmag.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-16:25:33.033 1d88 Level-0 table #5: started
+2021/09/02-16:25:33.036 1d88 Level-0 table #5: 1067 bytes OK
+2021/09/02-16:25:33.039 1d88 Delete type=0 #3
+2021/09/02-16:25:33.039 1d88 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/02-16:26:17.532 1d9f Level-0 table #7: started
+2021/09/02-16:26:17.534 1d9f Level-0 table #7: 5419 bytes OK
+2021/09/02-16:26:17.536 1d9f Delete type=0 #4
+2021/09/02-16:26:17.537 1d9f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/02-16:26:17.537 1d9f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 329 : 1
+2021/09/02-16:26:17.537 1d9f Compacting 1@1 + 1@2 files
+2021/09/02-16:26:17.539 1d9f Generated table #8@1: 95 keys, 2048 bytes
+2021/09/02-16:26:17.539 1d9f Compacted 1@1 + 1@2 files => 2048 bytes
+2021/09/02-16:26:17.542 1d9f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/02-16:26:17.543 1d9f Delete type=2 #5
+2021/09/02-16:26:17.543 1d9f Delete type=2 #7
+2021/09/02-16:26:17.543 1d9f Manual compaction at level-1 from '\x00\x02\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 329 : 1 .. (end); will stop at (end)
